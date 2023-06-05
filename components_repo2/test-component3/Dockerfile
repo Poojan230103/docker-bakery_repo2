@@ -1,4 +1,4 @@
-# pandas_img
+# pandas_img:3.0
 
 FROM pip_img
 
